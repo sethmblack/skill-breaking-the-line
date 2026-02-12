@@ -1,10 +1,9 @@
 ---
 name: breaking-the-line
-description: Reject conventional approaches when they favor the entrenched opponent.
-  Create chaos where your superior execution can prevail.
+description: Reject conventional approaches when they favor the entrenched opponent. Create chaos where your superior execution can prevail.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - breaking-the-line
