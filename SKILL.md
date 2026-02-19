@@ -3,8 +3,9 @@ name: breaking-the-line
 description: Reject conventional approaches when they favor the entrenched opponent. Create chaos where your superior execution can prevail.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3504
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - breaking-the-line
 - structure
